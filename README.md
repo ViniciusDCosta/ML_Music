@@ -4,4 +4,4 @@ Esse trabalho tem como objetivo classificar uma base de dados de **[músicas do 
 
 Essa base de dados é um conjunto de faixas de músicas do Spotify com uma variedade de 125 gêneros diferentes. Cada faixa possui alguns recursos de áudio associados a ela.
 
-Apesar da base de dados ser retirada do Kaggle o objetivo foi mais um aprendizado e não têm o propósito de participar da competição.
+O propósito principal desse projeto foi de aprendizado.
